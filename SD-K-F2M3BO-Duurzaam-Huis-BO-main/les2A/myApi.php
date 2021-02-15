@@ -10,7 +10,7 @@
         
         // my API reageert op GET en POST requests
         print "<h3>hello from myAPI !!</h3>"; // say hello to client
-     
+     /*
         
         $myTime = time(); // get the server time
 
@@ -39,5 +39,6 @@
                 default:
                     print "<h3>Alsjeblieft lees the manual voor invalid requests &#128540;</h3>";
             }
-        }     
+        }   
+        */  
 ?>

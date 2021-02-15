@@ -24,6 +24,7 @@ Het HTTP request wordt met ```<form action = "myApi.php">``` gedaan, de ingevoer
 4. Bedenk code voor ``` case "bedenk zelf een code": ```
 5. Test jouw php script
 6. Upload jouw code naar GIT en Ma-cloud.  Zet in het README.md bestand de link naar Ma-cloud
+    http://26923.hosts1.ma-cloud.nl/F2M3BO%232/SD-K-F2M3BO-Duurzaam-Huis-BO-main/les2A/testMyApi.html
 7. Lever de link naar GIT in
    
     
