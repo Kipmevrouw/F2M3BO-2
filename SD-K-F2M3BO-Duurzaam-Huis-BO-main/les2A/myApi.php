@@ -10,7 +10,7 @@
         
         // my API reageert op GET en POST requests
         print "<h3>hello from myAPI !!</h3>"; // say hello to client
-     /*
+     
         
         $myTime = time(); // get the server time
 
@@ -27,18 +27,15 @@
                 case "tijd":
                         print "<br>server tijd: " . date("h:i:s",$myTime);
                     break;
-
-                 // hier moet jij zelf code schrijven
-                    
                 case "easter egg":
                     print " <br> Een broodje ei eet je met een easter egg";
                     break;
                 case "easter chicken":
-                    print "<br> Een broodje is lekker met kip."
+                    print "<br> Een broodje is lekker met kip.";
                     break;
                 default:
                     print "<h3>Alsjeblieft lees the manual voor invalid requests &#128540;</h3>";
             }
         }   
-        */  
+         
 ?>

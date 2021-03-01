@@ -27,18 +27,14 @@
                 case "tijd":
                         print "<br>server tijd: " . date("h:i:s",$myTime);
                     break;
-
-                 // hier moet jij zelf code schrijven
-                    
-                case "easter egg":
-                    print " <br> hier moet jij zelf code schrijven";
+                 case "easter egg":
+                    print " <br> Een broodje ei eet je met een easter egg";
                     break;
-                case "bedenk zelf een code":
-                    // jouw code hier
+                case "easter chicken":
+                    print "<br> Een broodje is lekker met kip.";
                     break;
-                  // einde eigen code  
                 default:
-                    print "<h3>please read the manual for valid requests &#128540;</h3>";
+                    print "<h3>Alsjeblieft lees the manual voor invalid requests &#128540;</h3>";
             }
         }     
 ?>

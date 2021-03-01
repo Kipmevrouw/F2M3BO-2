@@ -11,10 +11,10 @@
     <h1>Test myAPI</h1>
     <form class="myForm">
         <fieldset>
-            <legend>Data verzenden met HTTP GET protocol</legend>
+            <legend style="text-align: center;">Data verzenden met HTTP GET protocol</legend>
             <label>Data</label>
             <input type = "text" name = "data" id="myTextInput">
-            <input type = "button" id = "myButton" value = "Submit HTTP GET AJAX ">
+            <input type = "button" id = "myButton" value = "Submit HTTP GET AJAX">
             <img src="duurzaam_huis_logo.png" width="200" alt="logo" title="logo">
        </fieldset>
     </form>
@@ -41,6 +41,11 @@
         console.log(dataVanServer); // debug
         document.getElementById('antwoordHier').innerHTML = dataVanServer;
       }
+      function warn(){
+          alert("Klik verder om door te gaan.")
+      }
+
+      window.onload = warn
     </script>
   </body>
 </html>

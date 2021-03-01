@@ -4,6 +4,8 @@ Het HTTP request wordt met Javascript Ajax gedaan ```function makeAjaxCall(url, 
 
 [demo](https://schw.hosts1.ma-cloud.nl/iot/les2B/testMyApiAjax.html) https://schw.hosts1.ma-cloud.nl/iot/les2B/testMyApiAjax.html
 
+MIJN VERSIE: http://26923.hosts1.ma-cloud.nl/F2M3BO%232/SD-K-F2M3BO-Duurzaam-Huis-BO-main/les2B/testMyApiAjax.html
+
 ### het HTML form
 ```
     <form class="myForm">
